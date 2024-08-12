@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maederstgarfr
 - 👀 I’m interested in anything about proggraming
-- 🌱 I’m currently learning Asp.net
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently enhancing the languages I know.
+- 💞️ I’m looking for internship collaboration.
 - 📫 How to reach me  email= maedehrastegarfar@gmail.com
 
 <!---
